@@ -1,0 +1,36 @@
+# Python
+venv/
+.env/
+*.pyc
+__pycache__/
+
+# Virtual environments
+.venv/
+env/
+
+# Database files
+*.db
+*.sqlite
+
+# Environment variables
+.env
+# Logs
+*.log
+logs/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Telegram bot tokens
+config.json
+token.txt
+secrets/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
