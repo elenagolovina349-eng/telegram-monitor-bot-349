@@ -1,0 +1,9 @@
+python-telegram-bot[job-queue]==21.1
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.2.1
+schedule==1.2.1
+urllib3==2.1.0
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.6
